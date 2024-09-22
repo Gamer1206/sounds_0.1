@@ -1,0 +1,10 @@
+{
+  "your_custom_sound": {
+    "sounds": [
+      {
+        "name": "kirche/bell",
+        "stream": true
+      }
+    ]
+  }
+}
